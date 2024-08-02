@@ -568,6 +568,8 @@
                     <controls:MarkdownTextBlock MarkdownText="[fxeP1](https://github.com/fxeP1)" />
                     <controls:MarkdownTextBlock MarkdownText="[Redusofficial](https://github.com/Redusofficial)" />
                     <controls:MarkdownTextBlock MarkdownText="[srthMD](https://github.com/srthMD)" />
+                    <controls:MarkdownTextBlock MarkdownText="[axellse](https://github.com/axellse)"/>
+                    <controls:MarkdownTextBlock MarkdownText="[xsylic](https://github.com/xsylic)"/>
                 </StackPanel>
             </controls:Expander>
 
