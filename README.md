@@ -1,10 +1,10 @@
 > [!CAUTION]
 > The only official places to download Bloxstrap are this [GitHub repository](https://github.com/pizzaboxer/bloxstrap) and [bloxstrap.pizzaboxer.xyz](https://bloxstrap.pizzaboxer.xyz). Any other websites offering downloads or claiming to be us are not controlled by us.
 
-# <img src="https://github.com/xsylic/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
+# <img src="https://github.com/xsylic/bloxstrap/raw/app/dev/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
-[![License](https://img.shields.io/github/license/xsylic/bloxstrap)](https://github.com/xsylic/bloxstrap/blob/main/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xsylic/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/xsylic/bloxstrap/actions)
+[![License](https://img.shields.io/github/license/xsylic/bloxstrap)](https://github.com/xsylic/bloxstrap/blob/app/dev/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xsylic/bloxstrap/ci.yml?branch=app/dev&label=builds)](https://github.com/xsylic/bloxstrap/actions)
 [![Downloads](https://img.shields.io/github/downloads/xsylic/bloxstrap/latest/total?color=981bfe)](https://github.com/xsylic/bloxstrap/releases)
 [![Version](https://img.shields.io/github/v/release/xsylic/bloxstrap?color=7a39fb)](https://github.com/xsylic/bloxstrap/releases/latest)
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
