@@ -26,6 +26,12 @@
         </controls:OptionControl>
 
         <controls:OptionControl 
+            Header="{x:Static resources:Strings.Menu_Integrations_AllowMultipleInstances_Title}" 
+            Description="{x:Static resources:Strings.Menu_Integrations_AllowMultipleInstances_Description}">
+            <ui:ToggleSwitch IsChecked="{Binding MultiInstanceLaunchingEnabled, Mode=TwoWay}" />
+        </controls:OptionControl>
+
+        <controls:OptionControl 
             Header="{x:Static resources:Strings.Menu_Integrations_ShowServerDetails_Title}" 
             Description="{x:Static resources:Strings.Menu_Integrations_ShowServerDetails_Description}"
             IsEnabled="{Binding InnerContent.IsChecked, ElementName=ActivityTrackingOption, Mode=OneWay}">
