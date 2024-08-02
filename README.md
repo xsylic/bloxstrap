@@ -1,12 +1,12 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstrap.pizzaboxer.xyz](https://bloxstrap.pizzaboxer.xyz). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official places to download Bloxstrap are this [GitHub repository](https://github.com/pizzaboxer/bloxstrap) and [bloxstrap.pizzaboxer.xyz](https://bloxstrap.pizzaboxer.xyz). Any other websites offering downloads or claiming to be us are not controlled by us.
 
-# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
+# <img src="https://github.com/xsylic/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
-[![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pizzaboxer/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/pizzaboxer/bloxstrap/actions)
-[![Downloads](https://img.shields.io/github/downloads/pizzaboxer/bloxstrap/latest/total?color=981bfe)](https://github.com/pizzaboxer/bloxstrap/releases)
-[![Version](https://img.shields.io/github/v/release/pizzaboxer/bloxstrap?color=7a39fb)](https://github.com/pizzaboxer/bloxstrap/releases/latest)
+[![License](https://img.shields.io/github/license/xsylic/bloxstrap)](https://github.com/xsylic/bloxstrap/blob/main/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xsylic/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/xsylic/bloxstrap/actions)
+[![Downloads](https://img.shields.io/github/downloads/xsylic/bloxstrap/latest/total?color=981bfe)](https://github.com/xsylic/bloxstrap/releases)
+[![Version](https://img.shields.io/github/v/release/xsylic/bloxstrap?color=7a39fb)](https://github.com/xsylic/bloxstrap/releases/latest)
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
 [![lol](https://img.shields.io/badge/mom%20made-pizza%20rolls-orange)](https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif)
 
@@ -18,10 +18,10 @@ Running into a problem or need help with something? [Check out the Wiki](https:/
  
 Bloxstrap is only supported for PCs running Windows.
  
- ## Installing
-Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+## Installing
+Download the [latest release of Bloxstrap via CI](https://github.com/xsylic/bloxstrap/actions), and run it. Configure your preferences if needed, and install. That's about it!
 
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
+Alternatively, you can install Bloxstrap (official by pizzaboxer) via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
 ```
 > winget install bloxstrap
 ```
