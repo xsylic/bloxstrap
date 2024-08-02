@@ -761,6 +761,18 @@ Selecionar 'Não' vai ignorar este aviso e prosseguir com a instalação.</value
   <data name="Menu.Integrations.AllowActivityJoining.Title" xml:space="preserve">
     <value>Permitir a entrada de pessoas em seu jogo</value>
   </data>
+  <data name="Menu.Integrations.AllowMultipleInstances.Description" xml:space="preserve">
+    <value>Permite ter mais de uma instância de cliente de jogo Roblox aberta simultaneamente.</value>
+  </data>
+  <data name="Menu.Integrations.AllowMultipleInstances.Title" xml:space="preserve">
+    <value>Permitir a abertura de várias instâncias</value>
+  </data>
+  <data name="Menu.Integrations.ShowAccountOnProfile.Description" xml:space="preserve">
+    <value>Mostra qual conta do Roblox você está usando no seu perfil do Discord.</value>
+  </data>
+  <data name="Menu.Integrations.ShowAccountOnProfile.Title" xml:space="preserve">
+    <value>Mostrar conta do Roblox no perfil</value>
+  </data>
   <data name="Menu.Integrations.Custom.AppLocation" xml:space="preserve">
     <value>Local do Aplicativo</value>
   </data>
